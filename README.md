@@ -1,0 +1,2 @@
+# KOSS-TASK
+Teaching task given to me by KOSS (IIT KGP) on FUNCTIONAL PROGRAMMING PARADIGM.
